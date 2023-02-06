@@ -1,13 +1,7 @@
 # SuperTestFramework
 
-This test framework is created as a part of assignment given by HR of KoinX.com - Software Tester Interview Task as mentioned below.![AddTransactionRecord1](https://user-images.githubusercontent.com/124510296/216885524-a6a5eaab-3b3c-4879-acea-58d6666524cd.PNG)
-![AddTransactionRecord2](https://user-images.githubusercontent.com/124510296/216885528-9543e478-3d0d-4082-8e65-1c2ddabbbea5.PNG)
-![AddUser1](https://user-images.githubusercontent.com/124510296/216885532-502121b1-1268-4ba4-9814-da27703a5313.PNG)
-![GetTransactionIDRecord](https://user-images.githubusercontent.com/124510296/216885536-0478b7bb-5bd2-41bc-8859-e770d63ead25.PNG)
-![GetUserID_1](https://user-images.githubusercontent.com/124510296/216885540-65c85901-983f-4f96-a586-a61197bc2a9c.PNG)
-![id_created_at_match](https://user-images.githubusercontent.com/124510296/216885542-050c7730-94d9-4773-972e-de5aa177df67.PNG)
-![random_Coin1 2Amount](https://user-images.githubusercontent.com/124510296/216885545-22ad56ba-e6c2-48d7-a362-d0e2ae4f786e.PNG)
-![receivedCoinMarketPrice_verify](https://user-images.githubusercontent.com/124510296/216885555-bc26439d-9e67-48ec-a131-abf52ec082d2.PNG)
+This test framework is created as a part of assignment given by HR of KoinX.com - Software Tester Interview Task as mentioned below.
+
 
 Your goal is to make requests to a REST Endpoints and test that the endpoints are
 working correctly.
